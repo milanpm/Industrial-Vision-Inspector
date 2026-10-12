@@ -1,0 +1,16 @@
+# .NET Core / Visual Studio
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# OS generated files
+Thumbs.db
+.DS_Store
+
+# Test outputs and local images
+*.jpg
+*.png
+*.log
